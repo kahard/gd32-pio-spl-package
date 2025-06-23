@@ -37,6 +37,7 @@ OF SUCH DAMAGE.
 #include "drv_usbh_int.h"
 #include "usbh_core.h"
 #include <string.h>
+#include <stddef.h>
 
 #if defined   (__CC_ARM)        /*!< ARM compiler */
     #pragma O0

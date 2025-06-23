@@ -39,6 +39,7 @@ OF SUCH DAMAGE.
 #include "usbh_transc.h"
 #include "drv_usbh_int.h"
 #include <string.h>
+#include <stddef.h>
 
 /*!
     \brief      initialize the mass storage parameters
